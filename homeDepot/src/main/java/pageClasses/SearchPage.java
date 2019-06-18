@@ -401,8 +401,6 @@ public class SearchPage extends CommonAPI {
 
         action.moveToElement(travelersClose).click().perform();
 
-
-
     }
 
 

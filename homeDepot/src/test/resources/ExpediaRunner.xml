@@ -15,8 +15,16 @@
 
     <test name="Expedia Home">
         <classes>
+            <class name="regression.TestSearchPage"/>
+            <class name="testPageClasses2.TestExpediaFlights"/>
             <class name="testPageClasses3.testExpediaHotels"/>
-
+            <class name="testPageClasses4.testExpediaCars"/>
+            <class name="testPageClasses5.TestExpediaBundleAndSave"/>
+            <class name="testPageClasses6.testExpediaCruises"/>
+            <class name="testPageClasses7.TestExpediaThingsToDo"/>
+            <class name="testPageClasses8.TestExpediaVacationRentals"/>
+            <class name="testPageClasses9.TestExpediaDeals"/>
+            <class name="testPageClasses10.TestExpediaMobile"/>
 
         </classes>
     </test>
